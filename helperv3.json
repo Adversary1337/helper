@@ -1,4 +1,9 @@
 {
+	"name": "Adversary",
+	"description": "V3", 
+	"update_timestamp": 20210211 , 
+	"url": "https://raw.githubusercontent.com/Adversary1337/helper/main/helperv3.json",
+	"locations": {
   "aim_ag_texture2": [
     {
       "name": ["T Spawn", "Edge"],
